@@ -1,0 +1,5 @@
+1/8/2024, 20:11:12, /test4, ::1, 500
+1/8/2024, 20:11:39, /test4, ::1, 500
+1/8/2024, 20:11:39, /favicon.ico, ::1, 500
+1/8/2024, 20:12:39, /test5, ::1, ReferenceError: res1 is not defined,  500
+1/8/2024, 20:12:39, /favicon.ico, ::1, ReferenceError: res1 is not defined,  500
