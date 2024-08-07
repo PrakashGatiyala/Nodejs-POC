@@ -4,7 +4,7 @@ const blogRounter = require("./routes/blog.route");
 
 mongoose
   .connect(
-    "mongodb+srv://gatiyalap:1ZuTPfvzXdyzhAbZ@cluster0.dbo8sjz.mongodb.net/blogapplication?retryWrites=true&w=majority&appName=Cluster0"
+    "mongodb+srv://gatiyalap:<PASSWORD>@cluster0.dbo8sjz.mongodb.net/blogapplication?retryWrites=true&w=majority&appName=Cluster0"
   )
   .then(() => {
     console.log("Connected to MongoDB");
